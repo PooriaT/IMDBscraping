@@ -39,7 +39,7 @@ scrapy crawl IMDBtop250 -o filename.json
 
 ## Authors
 
-* **[Pooria Taghdiri]**(https://twitter.com/PooriaTaghdiri)
+* [**Pooria Taghdiri**](https://twitter.com/PooriaTaghdiri)
 
 
 
