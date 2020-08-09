@@ -1,5 +1,4 @@
 # IMDBscraping
-# Project Title
 
 This project will gather the some information of Top 250 movies in IMDB. Information such as Title, Data, Cetificate rates, Duration time, Rating, Number of participants in rating and Director's name.
 
@@ -9,7 +8,7 @@ Python 3.x is required to run this code.
 
 ### Prerequisites
 
-It is preferable to run this code in virtual environment [venv] (https://docs.python.org/3/tutorial/venv.html).
+It is preferable to run this code in virtual environment [venv](https://docs.python.org/3/tutorial/venv.html).
 
 ```python
 python -m venv foo-env
@@ -40,7 +39,7 @@ scrapy crawl IMDBtop250 -o filename.json
 
 ## Authors
 
-* **Pooria Taghdiri** - *Initial work* - (https://twitter.com/PooriaTaghdiri)
+* **[Pooria Taghdiri]**(https://twitter.com/PooriaTaghdiri)
 
 
 
